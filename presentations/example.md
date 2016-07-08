@@ -1,9 +1,9 @@
 title: hexlet.io
-theme: select/cleaver-select-theme
 author:
   name: your name
   twitter: your twitter
   url: your url
+style: style.css
 
 --
 
